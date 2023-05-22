@@ -1,4 +1,29 @@
 [[redirects]]
-  from = "/trang-chu"
+  from = "/"
   to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/cay-canh-van-phong"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/cua-hang"
+  to = "/shop.html"
+  status = 200
+
+[[redirects]]
+  from = "/gio-hang"
+  to = "/cart.html"
+  status = 200
+
+[[redirects]]
+  from = "/thanh-toan"
+  to = "/checkout.html"
+  status = 200
+
+[[redirects]]
+  from = "/cay-kim-ngan-nhat-tru"
+  to = "/kimngannhattru.html"
   status = 200
