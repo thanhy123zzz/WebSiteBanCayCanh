@@ -27,3 +27,44 @@
   from = "/cay-kim-ngan-nhat-tru"
   to = "/kimngannhattru.html"
   status = 200
+
+[[redirects]]
+  from = "/cay-hanh-phuc-de-san"
+  to = "/cayhanhphuc.html"
+  status = 200
+
+[[redirects]]
+  from = "/chau-cay-xuong-rong-mix"
+  to = "/cayxuongrongmix.html"
+  status = 200
+  
+[[redirects]]
+  from = "/binh-trau-ba-thai-xanh-thuy-sinh"
+  to = "/binhtrauthuysinh.html"
+  status = 200
+
+[[redirects]]
+  from = "/chau-cay-bach-ma-hoang-tu-de-san"
+  to = "/chaucaybachmahoangtu.html"
+  status = 200
+
+[[redirects]]
+  from = "/cay-hong-mon-do"
+  to = "/hongmondo.html"
+  status = 200
+
+[[redirects]]
+  from = "/chau-cay-kim-tien-de-san"
+  to = "/kimtien.html"
+  status = 200
+  
+[[redirects]]
+  from = "/cay-van-nien-tung"
+  to = "/vannientung.html"
+  status = 200
+  
+[[redirects]]
+  from = "/chau-cay-luoi-ho-to-de-san"
+  to = "/luoihoto.html"
+  status = 200
+  
